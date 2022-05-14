@@ -1,16 +1,21 @@
 # personalmoneymanagerapp
 
-A new Flutter project.
+Personal money manager app using flutter with Hive database
 
 ## Getting Started
+[PersonalMoneyManagerUI](https://youtu.be/lU4z8E1IbYk)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Packages we are using:**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [hive_generator](https://pub.dev/packages/hive_generator)
+- [build_runner](https://pub.dev/packages/build_runner)
+- [get](https://pub.dev/packages/get)
+- [hive](https://pub.dev/packages/hive) 
+- [hive_flutter](https://pub.dev/packages/hive_flutter)
+- [intl](https://pub.dev/packages/intl)
+- [flutter_slidable](https://pub.dev/packages/flutter_slidable)
+
+ For get more packages click [here](https://pub.dev)
+  
